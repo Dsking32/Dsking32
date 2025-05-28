@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dsking32
-- 👀 I’m interested in learning django 
+- 👋 Hi, I’m Femi Stephen
+- 👀 I’m Currently learning Javascript 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me "dsking32@gmail.com"
 
 <!---
 Dsking32/Dsking32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
